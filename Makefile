@@ -1,0 +1,2 @@
+all:
+	getest getest.conf
