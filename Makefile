@@ -1,2 +1,2 @@
 all:
-	getest getest.conf
+	getest getest.cfg
